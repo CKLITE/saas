@@ -1,0 +1,28 @@
+{
+  "users": [
+    { "firstName":"First1",
+        "lastName":"Last1",
+        "emailID":"first1last1@partner.com",
+        "ckuserID":"ckfirst1last1",
+        "role":"pastnerAdmin",
+        "address":"Koramanagala, Bangalore, India",
+        "applicationID":"app1" 
+      },
+    { "firstName":"First2",
+        "lastName":"Last2",
+        "emailID":"first2last2@partner.com",
+        "ckuserID":"ckfirst2last2",
+        "role":"learner",
+        "address":"Koramanagala, Bangalore, India",
+        "applicationID":"app1" 
+      },
+    { "firstName":"First3",
+        "lastName":"Last3",
+        "emailID":"first3last3@partner.com",
+        "ckuserID":"ckfirst3last3",
+        "role":"learner",
+        "address":"Koramanagala, Bangalore, India",
+        "applicationID":"app1" 
+      }
+  ]
+}
